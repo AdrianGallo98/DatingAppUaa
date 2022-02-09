@@ -1,7 +1,9 @@
 ﻿using DatingAppUaa.API.DTOs;
 using DatingAppUaa.API.Entities;
 using DatingAppUaa.API.Helpers;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace DatingAppUaa.API.Interfaces

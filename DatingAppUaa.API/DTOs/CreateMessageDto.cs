@@ -1,4 +1,9 @@
-﻿namespace DatingAppUaa.API.DTOs
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace DatingAppUaa.API.DTOs
 {
     public class CreateMessageDto
     {
